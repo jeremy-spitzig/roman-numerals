@@ -1,7 +1,8 @@
-export const fromDecimal = (decimal) => {
-    return null
-}
-
-export const toDecimal = (romanNumeral) => {
-    return null
+module.exports = {
+    fromDecimal: function (decimal) {
+        return null
+    },
+    toDecimal: function (romanNumeral) {
+        return null
+    }
 }
